@@ -22,7 +22,7 @@ automated, and documented for a public GitHub portfolio.
 
 ## Architecture
 
-![Azure lab architecture](architecture/architecture.png)
+![Azure lab architecture](architecture/architecture.PNG)
 
 | Resource | Lab configuration |
 |---|---|
